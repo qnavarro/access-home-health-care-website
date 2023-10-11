@@ -1,0 +1,13 @@
+/*	font-family: "Noto Serif", serif;
+	font-family: "Noto Serif Makasar", serif; */
+
+h1 {
+	color: black;
+	font-family: "Noto Serif", serif;
+	font-weight: bold;
+}
+p {
+	color: red;
+	font-family: "Noto Serif", serif;
+	font-weight: normal;
+}
